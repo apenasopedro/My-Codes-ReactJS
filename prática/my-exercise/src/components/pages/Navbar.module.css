@@ -1,0 +1,15 @@
+nav{
+    background-color: black;
+    color: white;
+    display: flex;
+
+}ul{
+    display: inline-flex;
+}li{
+    list-style: none;
+    color: rgb(0, 87, 218);
+    padding-inline: 10px;
+}a{
+    color: white;
+    text-decoration: none;
+}
