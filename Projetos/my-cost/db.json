@@ -1,0 +1,68 @@
+{
+  "projetos": [
+    {
+      "name": "Projeto Teste",
+      "budget": "4321",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": null,
+      "services": [
+        {
+          "id": "deaa6447-f3a1-498b-bb59-4f5c572c1b77"
+        },
+        {
+          "id": "6905149a-b5bd-4fae-a2cc-36404248338c"
+        },
+        {
+          "id": "6905149a-b5bd-4fae-a2cc-36404248338c"
+        },
+        {
+          "id": "c3ac8705-659d-4a9d-bfe6-0b8990500c97"
+        },
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "id": 1
+    },
+    {
+      "name": "Teste",
+      "budget": "2340",
+      "categories": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": null,
+      "services": [
+        [],
+        [],
+        []
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
