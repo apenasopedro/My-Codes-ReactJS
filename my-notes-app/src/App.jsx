@@ -1,23 +1,13 @@
 import './App.css'
 import { Component} from 'react'
+import { Formulario } from './components/Formulario';
 
-
-class Equipe extends Component{
-  render(){
-    return(
-      <div>
-        <h2>Funcionou</h2>
-      </div>
-    );
-  }
-}
 
 function App() {
   return(
     <div>
-      <h1>1. Class Component</h1>
-      <h2>Conheca nossa equipe: </h2>
-      <Equipe/>
+      <h1>Formulario</h1>
+      <Formulario/>
     </div>
   )
   
