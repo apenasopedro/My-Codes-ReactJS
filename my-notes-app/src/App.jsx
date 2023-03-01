@@ -1,13 +1,14 @@
 import './App.css'
-import { Component} from 'react'
-import { Formulario } from './components/Formulario';
+import { Estado } from './components/hooks/Estado'
+
 
 
 function App() {
   return(
     <div>
-      <h1>Formulario</h1>
-      <Formulario/>
+      <h1>Hooks</h1>
+      <Estado/>
+    
     </div>
   )
   
